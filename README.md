@@ -3,3 +3,6 @@ Notas de hacking de los retos resultos durante el semestre
 
 - Karyme Idaly Zapien Mendez
 - karymezapmen@gmail.com"# notas-hacking" 
+
+##picoCTF- General skills
+- 
