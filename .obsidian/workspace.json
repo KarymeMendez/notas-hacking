@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GENERAL_SKILLS/General Skills/10 ASCII Numbers.md",
+                "file": "picoCTF/WEB/Web 1/01 Insp3ct0r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 ASCII Numbers"
+              "title": "01 Insp3ct0r"
             }
           }
         ],
@@ -185,8 +185,16 @@
   },
   "active": "e1d0fa30ac130cf8",
   "lastOpenFiles": [
-    "picoCTF/GENERAL_SKILLS/General Skills/09 Binhexa.md",
+    "picoCTF/WEB/Web 1/03 Logon.md",
+    "picoCTF/WEB/Web 1/06 Client-side-again.md",
+    "picoCTF/WEB/Web 1/04 dont-use-client-side.md",
+    "picoCTF/WEB/Web 1/05 picobrowser.md",
+    "picoCTF/WEB/Web 1/02 where are the robots.md",
+    "picoCTF/WEB/Web 1/01 Insp3ct0r.md",
+    "picoCTF/GENERAL_SKILLS/General Skills 3/10 Serpentine.md",
+    "picoCTF/GENERAL_SKILLS/General Skills 3/09 PW Crack 3.md",
     "picoCTF/GENERAL_SKILLS/General Skills/10 ASCII Numbers.md",
+    "picoCTF/GENERAL_SKILLS/General Skills/09 Binhexa.md",
     "picoCTF/GENERAL_SKILLS/General Skills/08 Binary search.md",
     "picoCTF/GENERAL_SKILLS/General Skills/07 Collaborative development.md",
     "picoCTF/GENERAL_SKILLS/General Skills/06 Blame game.md",
@@ -197,21 +205,13 @@
     "picoCTF/WEB/Web 2/02 Cookies.md",
     "picoCTF/WEB/Web 2/01 GET aHEAD.md",
     "picoCTF/WEB/Web 2",
-    "picoCTF/WEB/Web 1/where are the robots.md",
-    "picoCTF/WEB/Web 1/picobrowser.md",
-    "picoCTF/WEB/Web 1/Logon.md",
-    "picoCTF/WEB/Web 1/Insp3ct0r.md",
-    "picoCTF/WEB/Web 1/dont-use-client-side.md",
-    "picoCTF/WEB/Web 1/Client-side-again.md",
     "picoCTF/WEB/Web 1",
     "picoCTF/Sin título.md",
     "picoCTF/GENERAL_SKILLS/General Skills/04 Commitment Issues.md",
     "picoCTF/GENERAL_SKILLS/General Skills/03 Special.md",
     "picoCTF/GENERAL_SKILLS/General Skills/02 Chrono.md",
     "picoCTF/GENERAL_SKILLS/General Skills/01 Permissions.md",
-    "picoCTF/GENERAL_SKILLS/General Skills 3/10 Serpentine.md",
     "picoCTF/GENERAL_SKILLS/General Skills",
-    "picoCTF/GENERAL_SKILLS/General Skills 3/09 PW Crack 3.md",
     "picoCTF/GENERAL_SKILLS/General Skills 3/08 PW Crack 2.md",
     "picoCTF/GENERAL_SKILLS/General Skills 3/07 PW Crack 1.md",
     "picoCTF/GENERAL_SKILLS/General Skills 3/06 Fixme2.py.md",

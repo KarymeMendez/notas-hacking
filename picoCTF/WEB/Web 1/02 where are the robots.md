@@ -7,9 +7,11 @@ What part of the website could tell you where the creator doesn't want you to lo
 
 ### Solucion
 
-Entramos al link 
-colocamos al final de  la Url "robots.txt"
+1. Entramos al link 
+2. Colocamos al final de  la Url "robots.txt"
 	nos dara esto "Disallow: /477ce.html"
-Y colocamos "/477ce.html" en la url borrando  "robots.txt"
+	Y colocamos "/477ce.html" en la url borrando  "robots.txt"
 
+```
 picoCTF{ca1cu1at1ng_Mach1n3s_477ce}
+```
