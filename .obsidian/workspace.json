@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8202eb4132153539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General Skills 3/10 Serpentine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 Serpentine"
-            }
-          },
-          {
             "id": "e1d0fa30ac130cf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/WEB/Web 1/01 Insp3ct0r.md",
+                "file": "picoCTF/WEB/Web 2/02 Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Insp3ct0r"
+              "title": "02 Cookies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plantilla.md",
+                "file": "picoCTF/WEB/Web 2/02 Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Plantilla"
+              "title": "Enlaces entrantes de 02 Cookies"
             }
           },
           {
@@ -170,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,40 +170,42 @@
   },
   "active": "e1d0fa30ac130cf8",
   "lastOpenFiles": [
+    "picoCTF/WEB/Web 2/01 GET aHEAD.md",
+    "picoCTF/WEB/Web 2/02 Cookies.md",
+    "picoCTF/WEB/Web 2/03 Scavenger Hunt.md",
+    "picoCTF/WEB/Web 3/03 JaWT Scratchpad.md",
+    "picoCTF/WEB/Web 3/02 More SQLi.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/10 WebDecode.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/09 Unminify.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/08 SQLiLite.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/07 Secrets.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/06 Roboto Sans.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/05 Power Cookie.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/04 Local Authority.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/03 IntroToBurp.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/02 Inspector HTML.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/01 Includes.md",
+    "picoCTF/WEB/Web 3/01 Irish-Name-Repo 1.md",
+    "Plantilla.md",
+    "picoCTF/WEB/Tarea 2 - Retos W",
+    "picoCTF/WEB/Sin título.md",
+    "picoCTF/WEB/Web 1/01 Insp3ct0r.md",
+    "picoCTF/WEB/Web 3",
+    "picoCTF/WEB/Web 3.md",
     "picoCTF/WEB/Web 1/03 Logon.md",
     "picoCTF/WEB/Web 1/06 Client-side-again.md",
     "picoCTF/WEB/Web 1/04 dont-use-client-side.md",
     "picoCTF/WEB/Web 1/05 picobrowser.md",
     "picoCTF/WEB/Web 1/02 where are the robots.md",
-    "picoCTF/WEB/Web 1/01 Insp3ct0r.md",
     "picoCTF/GENERAL_SKILLS/General Skills 3/10 Serpentine.md",
-    "picoCTF/GENERAL_SKILLS/General Skills 3/09 PW Crack 3.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/10 ASCII Numbers.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/09 Binhexa.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/08 Binary search.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/07 Collaborative development.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/06 Blame game.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/05 Time Machine.md",
-    "picoCTF/WEB/Web 2/03 Scavenger Hunt.md",
     "picoCTF/WEB",
     "picoCTF/GENERAL_SKILLS",
-    "picoCTF/WEB/Web 2/02 Cookies.md",
-    "picoCTF/WEB/Web 2/01 GET aHEAD.md",
     "picoCTF/WEB/Web 2",
     "picoCTF/WEB/Web 1",
-    "picoCTF/Sin título.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/04 Commitment Issues.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/03 Special.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/02 Chrono.md",
-    "picoCTF/GENERAL_SKILLS/General Skills/01 Permissions.md",
     "picoCTF/GENERAL_SKILLS/General Skills",
-    "picoCTF/GENERAL_SKILLS/General Skills 3/08 PW Crack 2.md",
-    "picoCTF/GENERAL_SKILLS/General Skills 3/07 PW Crack 1.md",
-    "picoCTF/GENERAL_SKILLS/General Skills 3/06 Fixme2.py.md",
     "picoCTF/GENERAL_SKILLS/General Skills 3",
     "picoCTF/GENERAL_SKILLS/General Skills 2",
     "Sin título.canvas",
-    "picoCTF/GENERAL_SKILLS/General Skills 1",
-    "picoCTF"
+    "picoCTF/GENERAL_SKILLS/General Skills 1"
   ]
 }
