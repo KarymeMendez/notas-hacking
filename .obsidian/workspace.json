@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "215176f03f0cf882",
+        "id": "79c8ba14b0dba202",
         "type": "tabs",
         "children": [
           {
-            "id": "e1d0fa30ac130cf8",
+            "id": "d5fb5433e073493a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/WEB/Web 3/01 Irish-Name-Repo 1.md",
+                "file": "picoCTF/WEB/Tarea 2 - Retos W/10 WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Irish-Name-Repo 1"
+              "title": "10 WebDecode"
             }
           }
         ]
@@ -168,25 +168,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e1d0fa30ac130cf8",
+  "active": "d5fb5433e073493a",
   "lastOpenFiles": [
-    "picoCTF/WEB/Web 3/02 More SQLi.md",
-    "picoCTF/WEB/Web 3/03 JaWT Scratchpad.md",
-    "picoCTF/WEB/Web 3/01 Irish-Name-Repo 1.md",
-    "picoCTF/WEB/Web 2/02 Cookies.md",
-    "picoCTF/WEB/Web 2/01 GET aHEAD.md",
-    "picoCTF/WEB/Web 2/03 Scavenger Hunt.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/03 IntroToBurp.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/04 Local Authority.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/02 Inspector HTML.md",
+    "picoCTF/WEB/Tarea 2 - Retos W/01 Includes.md",
     "picoCTF/WEB/Tarea 2 - Retos W/10 WebDecode.md",
     "picoCTF/WEB/Tarea 2 - Retos W/09 Unminify.md",
     "picoCTF/WEB/Tarea 2 - Retos W/08 SQLiLite.md",
     "picoCTF/WEB/Tarea 2 - Retos W/07 Secrets.md",
     "picoCTF/WEB/Tarea 2 - Retos W/06 Roboto Sans.md",
     "picoCTF/WEB/Tarea 2 - Retos W/05 Power Cookie.md",
-    "picoCTF/WEB/Tarea 2 - Retos W/04 Local Authority.md",
-    "picoCTF/WEB/Tarea 2 - Retos W/03 IntroToBurp.md",
-    "picoCTF/WEB/Tarea 2 - Retos W/02 Inspector HTML.md",
-    "picoCTF/WEB/Tarea 2 - Retos W/01 Includes.md",
     "Plantilla.md",
+    "picoCTF/WEB/Web 3/01 Irish-Name-Repo 1.md",
+    "picoCTF/WEB/Web 3/02 More SQLi.md",
+    "picoCTF/WEB/Web 3/03 JaWT Scratchpad.md",
+    "picoCTF/WEB/Web 2/02 Cookies.md",
+    "picoCTF/WEB/Web 2/01 GET aHEAD.md",
+    "picoCTF/WEB/Web 2/03 Scavenger Hunt.md",
     "picoCTF/WEB/Tarea 2 - Retos W",
     "picoCTF/WEB/Sin título.md",
     "picoCTF/WEB/Web 1/01 Insp3ct0r.md",
