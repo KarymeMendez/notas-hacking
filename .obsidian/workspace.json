@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/WEB/Web 4/01 MatchTheRegex.md",
+                "file": "picoCTF/FORENSIC/Forensic 1/02 So Meta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 MatchTheRegex"
+              "title": "02 So Meta"
             }
           }
         ]
@@ -170,10 +170,17 @@
   },
   "active": "f13718d461a08fd2",
   "lastOpenFiles": [
+    "picoCTF/FORENSIC/Forensic 1/04 extensions.md",
+    "picoCTF/FORENSIC/Forensic 1/03 shark on wire 1.md",
+    "picoCTF/FORENSIC/Forensic 1/02 So Meta.md",
+    "picoCTF/FORENSIC/Forensic 1/01 Glory of the Garden.md",
+    "picoCTF/FORENSIC/Forensic 1/05 What Lies Within.md",
+    "picoCTF/WEB/Web 4/01 MatchTheRegex.md",
+    "picoCTF/FORENSIC/Forensic 1",
+    "picoCTF/FORENSIC",
     "picoCTF/WEB/Web 4/02 SOAP.md",
     "picoCTF/WEB/Web 4/03 Trickster.md",
     "picoCTF/WEB/Web 4/04 Most Cookies.md",
-    "picoCTF/WEB/Web 4/01 MatchTheRegex.md",
     "picoCTF/PRIMER_PARCIAL/Parte1. Web/-01- Bookmarklet.md",
     "picoCTF/PRIMER_PARCIAL/Parte2. General Skills/-09- SansAlpha.md",
     "picoCTF/PRIMER_PARCIAL/Parte2. General Skills/-10- Specialer.md",
@@ -191,21 +198,14 @@
     "picoCTF/PRIMER_PARCIAL/Parte1. Web/-08 SQL Direct-.md",
     "Sin título.md",
     "picoCTF/PRIMER_PARCIAL/Parte1. Web/-07- Java Code Analysis!!.md",
-    "picoCTF/PRIMER_PARCIAL/Parte1. Web/-06- findme.md",
-    "picoCTF/PRIMER_PARCIAL/Parte1. Web/-04- n0s4n1ty 1.md",
-    "picoCTF/PRIMER_PARCIAL/Parte1. Web/-03- Head Dump.md",
-    "picoCTF/PRIMER_PARCIAL/Parte1. Web/-02- Cookie Monster Secret Recipe.md",
     "picoCTF/PRIMER_PARCIAL/Parte2. General Skills",
     "picoCTF/PRIMER_PARCIAL/Parte1. Web",
     "picoCTF/PRIMER_PARCIAL",
-    "picoCTF/WEB/Tarea 2 - Retos W/10 WebDecode.md",
     "picoCTF/WEB/Web 4",
     "picoCTF/WEB/Tarea 2 - Retos W",
     "picoCTF/WEB/Web 3",
     "picoCTF/WEB",
     "picoCTF/GENERAL_SKILLS",
-    "picoCTF/WEB/Web 2",
-    "picoCTF/WEB/Web 1",
     "Sin título.canvas"
   ]
 }
