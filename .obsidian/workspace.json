@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/FORENSIC/Forensic 3/04 tunn3l v1s10n.md",
+                "file": "picoCTF/CRYPTO/Crypto 1/05 la cifra de.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 tunn3l v1s10n"
+              "title": "05 la cifra de"
             }
           }
         ]
@@ -170,11 +170,21 @@
   },
   "active": "f13718d461a08fd2",
   "lastOpenFiles": [
+    "picoCTF/CRYPTO/Crypto 1/01 The numbers.md",
+    "picoCTF/CRYPTO/Crypto 1/05 la cifra de.md",
+    "picoCTF/CRYPTO/Crypto 1/06 Tapping.md",
+    "picoCTF/CRYPTO/Crypto 1/07 waves over lambda.md",
+    "picoCTF/CRYPTO/Crypto 1/08 interencdec.md",
+    "picoCTF/CRYPTO/Crypto 1/04 Easy 1.md",
+    "picoCTF/CRYPTO/Crypto 1/02 13.md",
+    "picoCTF/CRYPTO/Crypto 1/03 Caesar.md",
+    "picoCTF/FORENSIC/Forensic 3/04 tunn3l v1s10n.md",
+    "picoCTF/CRYPTO/Crypto 1",
+    "picoCTF/CRYPTO",
     "picoCTF/FORENSIC/Forensic 3/03 Matryoshka doll.md",
     "picoCTF/FORENSIC/Forensic 3/02 Webnet1.md",
     "picoCTF/FORENSIC/Forensic 3/01 WebNet0.md",
     "picoCTF/FORENSIC/Forensic 3/05 MacroHard WeakEdge.md",
-    "picoCTF/FORENSIC/Forensic 3/04 tunn3l v1s10n.md",
     "picoCTF/FORENSIC/Forensic 2/05 shark on wire 2.md",
     "picoCTF/FORENSIC/Forensic 2/04 like1000.md",
     "picoCTF/FORENSIC/Forensic 2/03 c0rrupt.md",
@@ -191,21 +201,11 @@
     "picoCTF/FORENSIC/Forensic 3",
     "picoCTF/FORENSIC/Forensic 1/02 So Meta.md",
     "picoCTF/FORENSIC/Forensic 2",
-    "picoCTF/FORENSIC/Forensic 1/04 extensions.md",
-    "picoCTF/FORENSIC/Forensic 1/03 shark on wire 1.md",
-    "picoCTF/FORENSIC/Forensic 1/05 What Lies Within.md",
-    "picoCTF/WEB/Web 4/01 MatchTheRegex.md",
     "picoCTF/FORENSIC/Forensic 1",
     "picoCTF/FORENSIC",
-    "picoCTF/WEB/Web 4/02 SOAP.md",
-    "picoCTF/WEB/Web 4/03 Trickster.md",
-    "picoCTF/WEB/Web 4/04 Most Cookies.md",
-    "picoCTF/PRIMER_PARCIAL/Parte1. Web/-01- Bookmarklet.md",
     "picoCTF/PRIMER_PARCIAL/Parte2. General Skills",
     "picoCTF/PRIMER_PARCIAL/Parte1. Web",
     "picoCTF/PRIMER_PARCIAL",
-    "picoCTF/WEB/Web 4",
-    "picoCTF/WEB/Tarea 2 - Retos W",
     "Sin título.canvas"
   ]
 }
