@@ -20,4 +20,4 @@ Soluicion
 8. icat imagen -o 206848 2345 > key_file
 9. file key_file
 10. `ssh -i key_file -p 55446 ctf-player@saturn.picoctf.net`
-Tenemos la bandera -->  
+Tenemos la bandera -->  ```picoCTF{k3y_5l3u7h_339601ed}```

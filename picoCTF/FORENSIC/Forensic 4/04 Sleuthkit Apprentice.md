@@ -15,4 +15,5 @@ Solucion
 3. fls nombre_imagen -o 360448
 4. fls nombre_imagen -o 360448 -r  | grep flag
 5. icat  imagen -o 360448 2371 
-nos da la bandera --> 
+
+nos da la bandera --> ```picoCTF{by73_5urf3r_adac6cb4}```

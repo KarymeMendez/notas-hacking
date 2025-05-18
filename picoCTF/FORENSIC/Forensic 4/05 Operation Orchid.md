@@ -15,4 +15,4 @@ Solucion
 3. fls imagen -o 411648 472
 4. openssl aes -salt -d -in imagen -out flag.txt -k  unbrea
 5. cat flag.txt
-Nos da la bandera --->   
+Nos da la bandera --->   ```picoCTF{h4un71ng_p457_5113beab}```

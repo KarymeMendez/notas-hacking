@@ -14,3 +14,5 @@ Solucion
 1. Descargamos con wget
 2. descomprimimos gzip -d (imagen)
 3. srch_strings (imagen descargada) | grep pico
+
+---> Obtenemos la bandera  ```picoCTF{f0r3ns1c4t0r_n30phyt3_a011c142}```
