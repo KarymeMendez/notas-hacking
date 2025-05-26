@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/FORENSIC/Tarea 3_Forensic/09 Ph4nt0m 1ntrud3r.md",
+                "file": "picoCTF/CRYPTO/Crypto 3/04 b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Ph4nt0m 1ntrud3r"
+              "title": "04 b00tl3gRSA3"
             }
           }
         ]
@@ -170,8 +170,15 @@
   },
   "active": "f13718d461a08fd2",
   "lastOpenFiles": [
-    "picoCTF/FORENSIC/Tarea 3_Forensic/10 flags are stepic.md",
+    "picoCTF/CRYPTO/Crypto 3/03 b00tl3gRSA2.md",
+    "picoCTF/CRYPTO/Crypto 3/04 b00tl3gRSA3.md",
+    "picoCTF/CRYPTO/Crypto 3/01 Mini RSA.md",
+    "picoCTF/CRYPTO/Crypto 3/02 Mind your Ps and Qs.md",
+    "picoCTF/CRYPTO/Crypto 2/rsa pop quiz (exp.py).md",
+    "picoCTF/CRYPTO/Crypto 3",
     "picoCTF/FORENSIC/Tarea 3_Forensic/09 Ph4nt0m 1ntrud3r.md",
+    "picoCTF/CRYPTO/Crypto 2",
+    "picoCTF/FORENSIC/Tarea 3_Forensic/10 flags are stepic.md",
     "picoCTF/FORENSIC/Tarea 3_Forensic/08 RED.md",
     "picoCTF/FORENSIC/Tarea 3_Forensic/07Secret of the Polyglot.md",
     "picoCTF/FORENSIC/Tarea 3_Forensic/06 CanYouSee.md",
@@ -192,11 +199,6 @@
     "picoCTF/CRYPTO/Crypto 1/01 The numbers.md",
     "picoCTF/CRYPTO/Crypto 1/06 Tapping.md",
     "picoCTF/CRYPTO/Crypto 1/07 waves over lambda.md",
-    "picoCTF/CRYPTO/Crypto 1/08 interencdec.md",
-    "picoCTF/CRYPTO/Crypto 1/04 Easy 1.md",
-    "picoCTF/CRYPTO/Crypto 1/02 13.md",
-    "picoCTF/CRYPTO/Crypto 1/03 Caesar.md",
-    "picoCTF/FORENSIC/Forensic 3/04 tunn3l v1s10n.md",
     "picoCTF/CRYPTO/Crypto 1",
     "picoCTF/CRYPTO",
     "picoCTF/FORENSIC/Forensic 4",
@@ -204,8 +206,6 @@
     "picoCTF/FORENSIC/Forensic 2",
     "picoCTF/FORENSIC/Forensic 1",
     "picoCTF/FORENSIC",
-    "picoCTF/PRIMER_PARCIAL/Parte2. General Skills",
-    "picoCTF/PRIMER_PARCIAL/Parte1. Web",
     "Sin título.canvas"
   ]
 }
